@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\obj\Debug\net5.0\Bezao.Data.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\obj\Debug\net5.0\Bezao.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\obj\Debug\net5.0\Bezao.Data.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\obj\Debug\net5.0\Bezao.Data.AssemblyInfo.cs
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\obj\Debug\net5.0\Bezao.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\bin\Debug\net5.0\Bezao.Data.deps.json
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\bin\Debug\net5.0\Bezao.Data.dll
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\bin\Debug\net5.0\ref\Bezao.Data.dll
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\bin\Debug\net5.0\Bezao.Data.pdb
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\bin\Debug\net5.0\Bezao.Layer.dll
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\bin\Debug\net5.0\Bezao.Layer.pdb
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\obj\Debug\net5.0\Bezao.Data.csproj.CopyComplete
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\obj\Debug\net5.0\Bezao.Data.dll
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\obj\Debug\net5.0\ref\Bezao.Data.dll
+C:\Users\USER\source\repos\BezaoATM\Bezao.Data\obj\Debug\net5.0\Bezao.Data.pdb

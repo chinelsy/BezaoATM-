@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Bezao.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Bezao.Layer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bezao.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bezao.Data.dll": {}
+        }
+      },
+      "Bezao.Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Bezao.Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bezao.Layer.dll": {}
+        }
+      },
+      "Bezao.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Bezao.Data": "1.0.0",
+          "Bezao.Layer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bezao.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bezao.Logic.dll": {}
+        }
+      },
+      "Bezao.View/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Bezao.Data": "1.0.0",
+          "Bezao.Layer": "1.0.0",
+          "Bezao.Logic": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bezao.View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bezao.View.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bezao.Data/1.0.0": {
+      "type": "project",
+      "path": "../Bezao.Data/Bezao.Data.csproj",
+      "msbuildProject": "../Bezao.Data/Bezao.Data.csproj"
+    },
+    "Bezao.Layer/1.0.0": {
+      "type": "project",
+      "path": "../Bezao.Layer/Bezao.Layer.csproj",
+      "msbuildProject": "../Bezao.Layer/Bezao.Layer.csproj"
+    },
+    "Bezao.Logic/1.0.0": {
+      "type": "project",
+      "path": "../Bezao.Logic/Bezao.Logic.csproj",
+      "msbuildProject": "../Bezao.Logic/Bezao.Logic.csproj"
+    },
+    "Bezao.View/1.0.0": {
+      "type": "project",
+      "path": "../Bezao.View/Bezao.View.csproj",
+      "msbuildProject": "../Bezao.View/Bezao.View.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Bezao.Data >= 1.0.0",
+      "Bezao.Layer >= 1.0.0",
+      "Bezao.Logic >= 1.0.0",
+      "Bezao.View >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\BezaoATM\\BezaoATM\\BezaoATM.csproj",
+      "projectName": "BezaoATM",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\BezaoATM\\BezaoATM\\BezaoATM.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\BezaoATM\\BezaoATM\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\USER\\source\\repos\\BezaoATM\\Bezao.Data\\Bezao.Data.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\BezaoATM\\Bezao.Data\\Bezao.Data.csproj"
+            },
+            "C:\\Users\\USER\\source\\repos\\BezaoATM\\Bezao.Layer\\Bezao.Layer.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\BezaoATM\\Bezao.Layer\\Bezao.Layer.csproj"
+            },
+            "C:\\Users\\USER\\source\\repos\\BezaoATM\\Bezao.Logic\\Bezao.Logic.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\BezaoATM\\Bezao.Logic\\Bezao.Logic.csproj"
+            },
+            "C:\\Users\\USER\\source\\repos\\BezaoATM\\Bezao.View\\Bezao.View.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\BezaoATM\\Bezao.View\\Bezao.View.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

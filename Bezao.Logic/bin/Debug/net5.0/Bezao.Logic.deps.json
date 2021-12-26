@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bezao.Logic/1.0.0": {
+        "dependencies": {
+          "Bezao.Data": "1.0.0",
+          "Bezao.Layer": "1.0.0"
+        },
+        "runtime": {
+          "Bezao.Logic.dll": {}
+        }
+      },
+      "Bezao.Data/1.0.0": {
+        "dependencies": {
+          "Bezao.Layer": "1.0.0"
+        },
+        "runtime": {
+          "Bezao.Data.dll": {}
+        }
+      },
+      "Bezao.Layer/1.0.0": {
+        "runtime": {
+          "Bezao.Layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bezao.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bezao.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bezao.Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

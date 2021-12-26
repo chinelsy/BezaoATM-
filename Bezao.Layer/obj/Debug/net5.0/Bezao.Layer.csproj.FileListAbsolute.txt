@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\bin\Debug\net5.0\Bezao.Layer.deps.json
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\bin\Debug\net5.0\Bezao.Layer.dll
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\bin\Debug\net5.0\ref\Bezao.Layer.dll
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\bin\Debug\net5.0\Bezao.Layer.pdb
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\obj\Debug\net5.0\Bezao.Layer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\obj\Debug\net5.0\Bezao.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\obj\Debug\net5.0\Bezao.Layer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\obj\Debug\net5.0\Bezao.Layer.AssemblyInfo.cs
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\obj\Debug\net5.0\Bezao.Layer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\obj\Debug\net5.0\Bezao.Layer.dll
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\obj\Debug\net5.0\ref\Bezao.Layer.dll
+C:\Users\USER\source\repos\BezaoATM\Bezao.Layer\obj\Debug\net5.0\Bezao.Layer.pdb
